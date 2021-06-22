@@ -1,0 +1,26 @@
+.clock {
+    background-image:url("./images/wooden-background-images-stock-photos-vectors-shutterstock-wooden-background-401_280.jpg");
+    width: 300px;
+    padding: 5%;
+    text-align: center;
+    margin-left: 33%;
+    margin-top: 15%;
+    border-radius: 10px;
+    /*height: 100px;*/
+  }
+ 
+  
+  .clock-ampm {
+    font-family: "Concert One", cursive;
+    font-size: 60px;
+    color:#FFFAF0;
+  }
+  
+  .clock-time {
+    font-size: 60px;
+  }
+  .clock-second{
+    
+    font-size: 60px;
+    color:#000000;
+  }
